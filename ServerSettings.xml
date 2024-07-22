@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<NetworkServerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ServerName="FrozenPie's Server" CurrentGameMode="MP_Strategy" Singleplayer="false" PasswordProtected="true" ServerPassword="october" MaxPlayers="12">
+  <GameModeSettings GameMode="MP_Strategy" CurrentMap="GreatErg" MapList="Badlands GreatErg MonumentValley NarakaCity RiftBasin RiftBasinTerrainOnly" MaxPlayers="12" />
+  <AdminPlayers ID="76561197961865469" Name="FrozenPie" RootAccess="true" />
+  <AdminPlayers ID="76561197978464564" Name="sn1p3r1" RootAccess="false" />
+</NetworkServerSettings>
